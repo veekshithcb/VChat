@@ -8,11 +8,11 @@
 		<version>3.0.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.alibou</groupId>
+	<groupId>com.Vchat</groupId>
 	<artifactId>Vchat</artifactId>
 	<version>1</version>
-	<name>Chat</name>
-	<description>Demo project for a Chat application using Spring Boot</description>
+	<name>VChat</name>
+	<description>Vchat Application</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
